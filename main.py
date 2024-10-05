@@ -1,4 +1,5 @@
 # snake water gun game in maini project in python:
+#this is python project
 import random
 computer = random.choice([-1,0,1])
 youstr = input("Enter Your Choice : ")
